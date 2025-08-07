@@ -1,0 +1,1 @@
+This repository features a simple yet practical Python program designed to convert temperatures between Celsius, Fahrenheit, and Kelvin scales. Developed as "Task 01," it showcases fundamental programming concepts like functions, user input handling, and conditional logic.
